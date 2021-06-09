@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="pref0">
+    <file>images/ManagerIcon1.jpeg</file>
+    <file>images/InterfaceChoisie.jpeg</file>
+  </qresource>
+  <qresource prefix="pref1">
+    <file>images/HomeIcon.jpeg</file>
+    <file>images/RegisterUserIcon.jpeg</file>
+    <file>images/ModifyIcon.jpeg</file>
+    <file>images/icon5.jpeg</file>
+    <file>images/ManageSiteIcon.jpeg</file>
+    <file>images/ReviewIcon.jpeg</file>
+    <file>images/AddIcon.jpeg</file>
+    <file>images/SearchIcon.jpeg</file>
+    <file>images/StarIcon.jpeg</file>
+    <file>images/AddReviewsIcon.jpeg</file>
+    <file>images/DeleteIcon.jpeg</file>
+  </qresource>
+</RCC>
